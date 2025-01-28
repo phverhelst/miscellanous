@@ -27,5 +27,5 @@
 | Nekaph, Emissary of Settra | €34.00 | No | No |
 | Ushabti with Greatbows | €70.00 | No | No |
 | Settra The Imperishable | €47.50 | No | No |
-| Tomb King | €30.00 | Yes | (Yes in boxed set) |
-| **Tomb Kings of Khemri: Battle Standard Bearer** | €30.00 |  No | No |
+| **Tomb King** | €30.00 | Yes | (Yes in boxed set) |
+| Tomb Kings of Khemri: Battle Standard Bearer | €30.00 |  No | No |
