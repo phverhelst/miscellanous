@@ -1,6 +1,6 @@
 | Item | Price | In boxed set ? | Owned | On Order |
 | --- | --- | :-: | :-: | :-: |
-| **Warhammer: The Old World Core Set – Tomb Kings of Khemri Edition** | €237.00 | Not relevant | Yes | No |
+| **Warhammer: The Old World Core Set – Tomb Kings of Khemri Edition** | €237.00 | Not relevant | Yes |
 | **Warhammer: The Old World - Ravening Hordes** | €41.00 | No | No | Yes |
 | Arcane Journal: Tomb Kings of Khemri | €21.50 | No | No |
 | Skeleton Chariots | €67.50 | Yes | (Yes in boxed set) | No | No |
