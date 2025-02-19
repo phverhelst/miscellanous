@@ -3,7 +3,7 @@
 | **Warhammer: The Old World Core Set – Tomb Kings of Khemri Edition** | €237.00 | Not relevant | Yes |
 | **Warhammer: The Old World - Ravening Hordes** | €41.00 | No | No | Yes |
 | Arcane Journal: Tomb Kings of Khemri | €21.50 | No | No |
-| Skeleton Chariots | €67.50 | Yes | (Yes in boxed set) | No | No |
+| Skeleton Chariots | €67.50 | Yes | (Yes in boxed set) | No |
 | **Tomb Kings Skeleton Horsemen/Horse Archers** | €55.00 | Yes | (Yes in boxed set) |
 | **Tomb Kings Skeleton Warriors/Archers** | €67.50 | Yes | (Yes in boxed set) |
 | **Tomb King/Liche Priest on Necrolith Bone Dragon** | €82.50 | Yes | (Yes in boxed set) |
